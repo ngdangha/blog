@@ -1,0 +1,2 @@
+# blog
+Static Web Blog
